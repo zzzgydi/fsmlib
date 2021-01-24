@@ -1,6 +1,6 @@
 {
   "name": "fsmlib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "GyDi",
   "description": "A finite state machine for JavaScript",
   "license": "MIT",
