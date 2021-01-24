@@ -1,11 +1,17 @@
-# fsmjs
+# fsmlib
 
 A simple library finite state machine for JavaScript or TypeScript.
+
+## Installation
+
+```bash
+npm install --save fsmlib
+```
 
 ## Usage
 
 ```js
-import { FSM, FSMState } from "fsmjs";
+import { FSM, FSMState } from "fsmlib";
 
 const stateSolid = new FSMState("solid")
   .event("melt", "liquid")
